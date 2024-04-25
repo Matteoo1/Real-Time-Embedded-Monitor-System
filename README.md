@@ -34,8 +34,7 @@ This real-time embedded system project uses the Arduino platform and FreeRTOS to
 - **Consumer Tasks**: Consumers pull numbers from the buffer under real-time constraints, showcasing the efficiency of an embedded control system.
 - **Dedicated Embedded Functionality**: The system's operations are fine-tuned for embedded environments, emphasizing performance and reliability.
 
-## System Operation
- An image of the arduino used in this project
+## image of the arduino used in this project
  
  <img src="https://github.com/mohamadd10/Real-Time-Embedded-Monitor-System/assets/119814738/662ef1e6-01dc-4326-a086-c3fb8aaaa5ae" width="500" height="300">
 
