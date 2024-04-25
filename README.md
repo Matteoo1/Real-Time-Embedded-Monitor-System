@@ -37,7 +37,7 @@ This real-time embedded system project uses the Arduino platform and FreeRTOS to
 ## System Operation
  An image of the arduino used in this project
 
- <img src=(https://github.com/mohamadd10/Real-Time-Embedded-Monitor-System/assets/119814738/662ef1e6-01dc-4326-a086-c3fb8aaaa5ae) width="100" height="100">
+<img src="https://github.com/mohamadd10/Real-Time-Embedded-Monitor-System/raw/main/assets/119814738/662ef1e6-01dc-4326-a086-c3fb8aaaa5ae" width="300" height="300">
   
  ![Skärmbild](https://github.com/mohamadd10/Real-Time-Embedded-Monitor-System/assets/119814738/662ef1e6-01dc-4326-a086-c3fb8aaaa5ae)
 
