@@ -35,7 +35,8 @@ This real-time embedded system project uses the Arduino platform and FreeRTOS to
 - **Dedicated Embedded Functionality**: The system's operations are fine-tuned for embedded environments, emphasizing performance and reliability.
 
 ## System Operation
-- An image of the arduino used in this project
+ An image of the arduino used in this project
+  
  ![Skärmbild](https://github.com/mohamadd10/Real-Time-Embedded-Monitor-System/assets/119814738/662ef1e6-01dc-4326-a086-c3fb8aaaa5ae)
 
 
